@@ -7,6 +7,13 @@ You can find the slide deck [here](https://docs.google.com/presentation/d/1VxCSg
 
 Here's step by step of what to do before we start! 
 
+**Using Google Colab (Recommended)**
+1. Go to https://colab.research.google.com/. 
+2. Click the tab for Github
+3. Enter the url for this repo and click "keras.ipynb"
+4. You're ready to go!
+
+**Using Anaconda**
 1. Download the correct version of Anaconda Python 3.6 [here](https://www.anaconda.com/download/#macos).
 
 2. Install it and go through the steps. 
